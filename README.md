@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Suyashavarpe</h1>
 <h3 align="center">💻 Passionate Student | 💡 Lifelong Learner | 👨‍💻 Future Developer</h3>
 
 <p align="center">
@@ -23,8 +23,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suyashavarpe&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suyashavarpe&theme=radical" height="150" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### 🔥 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=brightgreen&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Suyashavarpe&label=Profile+Views&color=brightgreen&style=flat" alt="Suyashavarpe" />
 </p>
 
 ---
@@ -55,8 +55,8 @@
 
 ### 📚 Recent Projects
 
-- 🎯 [Project One](https://github.com/your-username/project-one): Brief description
-- 🚀 [Project Two](https://github.com/your-username/project-two): Brief description
+- 🎯 [Project One](https://github.com/Suyashavarpe/project-one): Brief description
+- 🚀 [Project Two](https://github.com/Suyashavarpe/project-two): Brief description
 
 ---
 
